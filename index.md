@@ -18,7 +18,9 @@
 
 - 第6章 装备
 
-- [第7章 法术](./ch7_spells/spell_descriptions.md)
+- [第7章 法术](./ch7_spells/spell_rules.md)
+
+	- [法术描述](./ch7_spells/spell_descriptions.md)
 
 - 附录A 多元宇宙
 
